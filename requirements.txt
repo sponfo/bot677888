@@ -1,0 +1,7 @@
+py-cord
+requests
+threading
+httpx
+tls_client
+sys
+flask

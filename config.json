@@ -1,0 +1,21 @@
+{
+    "bot_token": "",
+    "bot_status": "Retrohub Boosts",
+    "capmonster_key": "",
+    "proxyless": true,
+    "field_name_invite": "",
+    "change_server_nick": true,
+    "server_nick": ".gg/retrohub",
+    "guildID": "",
+    "ownerID": [
+        1086516508672405595,
+        943127733003747369
+    ],
+    "adminID": [
+        1086516508672405595,
+        943127733003747369
+    ],
+    "order_log_webhook": "",
+    "boost_log_webhook": "",
+    "boost_failed_log_webhook": ""
+}
